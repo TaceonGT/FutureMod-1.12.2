@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " R ",
+        "RUR",
+        " R "
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "fm:radium_ingot"
+        },
+        
+        "S":
+        {
+            "item": "fm:uranium_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:radium_food",
+        "count": 1
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " F ",
+        "RRR",
+        " U "
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "fm:radon_gas"
+        },
+        
+        "F":
+        {
+            "item": "fm:francium_ingot"
+        },
+        
+        "U":
+        {
+            "item": "fm:uranium_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:radon_gas",
+        "count": 1
+    }
+}

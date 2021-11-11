@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        "AAA",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "fm:americium_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:americium_block",
+        "count": 1
+    }
+}

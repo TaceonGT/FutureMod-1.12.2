@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "T",
+        "S",
+        "S"
+    ],
+    
+    "key":
+    {
+        "T":
+        {
+            "item": "fm:titanium_ingot"
+        },
+        
+        "S":
+        {
+            "item": "fm:future_stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:titanium_shovel",
+        "count": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "N",
+        "N"
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "fm:nuclear_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:nuclear_stick",
+        "count": 4
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "BBB",
+        "BS ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "fm:steel_bar"
+        },
+        
+        "S":
+        {
+            "item": "fm:future_stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:steel_hammer",
+        "count": 1
+    }
+}

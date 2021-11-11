@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "T",
+        "T",
+        "S"
+    ],
+    
+    "key":
+    {
+        "T":
+        {
+            "item": "fm:tellurium_ingot"
+        },
+        
+        "S":
+        {
+            "item": "fm:future_stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:tellurium_sword",
+        "count": 1
+    }
+}

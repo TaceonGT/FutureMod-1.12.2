@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "fm:nuclear_log"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "fm:nuclear_planks",
+        "count": 4
+    }
+}

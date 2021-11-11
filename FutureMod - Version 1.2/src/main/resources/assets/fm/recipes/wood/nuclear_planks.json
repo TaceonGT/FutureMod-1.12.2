@@ -1,0 +1,49 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "FU",
+        "NP",
+        "AC"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "fm:francium_ingot"
+        },
+        
+        "U":
+        {
+            "item": "fm:uranium_ingot"
+        },
+        
+        "N":
+        {
+            "item": "fm:neptunium_ingot"
+        },
+        
+        "P":
+        {
+            "item": "fm:plutonium_ingot"
+        },
+        
+        "A":
+        {
+            "item": "fm:americium_ingot"
+        },
+        
+        "C":
+        {
+            "item": "fm:curium_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "fm:nuclear_planks",
+        "count": 4
+    }
+}

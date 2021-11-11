@@ -1,0 +1,18 @@
+{ 
+    "type": "minecraft:crafting_shapeless",
+
+    "ingredients": 
+    [
+
+    {
+      "item": "fm:americium_block"
+    }
+    
+    ],
+
+    "result": 
+    {
+        "item": "fm:americium_ingot",
+        "count": 9
+    }
+}
